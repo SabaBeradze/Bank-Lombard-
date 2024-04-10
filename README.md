@@ -1,6 +1,6 @@
-# Pawn Shop Management System
+# Lombard Shop Management System
 
-This is a Java Spring CRUD application for managing a pawn shop. It provides functionality for adding various types of items such as cars, jewelry, and technology to pawn inventory, as well as making payments on pawned items.
+This is a Java Spring CRUD application for managing a Lombard. It provides functionality for adding various types of items such as cars, jewelry, and technology to pawn inventory, as well as making payments on pawned items.
 
 ## Features
 
